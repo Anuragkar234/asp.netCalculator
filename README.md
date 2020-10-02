@@ -19,5 +19,5 @@ A sample calulator using ASP.NET
        - Install `Homebrew`. (refer the [Brew documentation](https://brew.sh)
        - Install it via `cask`
        - `brew cask install dotnet-sdk`
-       - create a `'dir` and execute the dotnet as explained previously.
+       - create a *dir* and execute the dotnet as explained previously.
     
