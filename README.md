@@ -5,7 +5,7 @@ A sample calulator using ASP.NET
 1. Clone the above using `git-clone` or using `zip` files.
 2. Download and install .NET depending on OS
    1. Windows OS
-      - Install `choco`. (refer the [choco documentation](https://chocolatey.org/install)
+      - Install `choco`. (refer the [choco documentation])(https://chocolatey.org/install)
       - Install dotnet-sdk using choco: `choco install dotnetcore-sdk` in powershell.
       - Install 'C#' extensions in vs-code
         - Install `C#(omnisharp)`, `C# XML Documentation Comments` and `ASP.NET Core Snippets`.
